@@ -1,7 +1,9 @@
 <div align="center">
 
-  ![background](https://github.com/PetrVychopen/PetrVychopen/assets/62891161/9f4a7bd0-66f8-4e22-a8c0-9cfdf6931754)
-  
+  <div align="center">
+    <img src="https://github.com/PetrVychopen/PetrVychopen/assets/62891161/9f4a7bd0-66f8-4e22-a8c0-9cfdf6931754"/>
+  </div>
+
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetrVychopen&show_icons=true&theme=github_dark&hide_border=true&hide=contribs,stars)](https://github.com/PetrVychopen/github-readme-stats)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetrVychopen&layout=compact&theme=github_dark&hide_border=true)
   
