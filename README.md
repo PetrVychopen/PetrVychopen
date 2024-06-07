@@ -7,7 +7,7 @@
   <blockquote>
     <div align="justify">
       <h3>
-        Meet Petr, a passionate advocate for AI's growth and its integration into daily life. A dreamer grounded in reality, he envisions a future where technology enriches humanity.
+        Meet Petr, a direct and adaptable advocate for AI’s growth and its integration into daily life. His pragmatic approach and analytical mind keep him grounded in reality, even as he dreams of a future where technology enriches humanity. Patient in his endeavors, he understands that meaningful change takes time. His altruistic nature shines through in his vision of AI as a tool for the betterment of all. 
       </h3>
     </div>
   </blockquote>
